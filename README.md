@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mike@orvin.dev**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/151aQviA8kFk1NT9W6c2OXrKBSF9zDseVYkkT4fo-Er4/edit?usp=sharing" alt="link to resume">Resume</a>
+<!-- - 📄 Know about my experiences <a href="https://docs.google.com/document/d/151aQviA8kFk1NT9W6c2OXrKBSF9zDseVYkkT4fo-Er4/edit?usp=sharing" alt="link to resume">Resume</a> -->
 
 - ⚡ Fun fact **My wife and I both have hole in ones on the same golf course!**
 
