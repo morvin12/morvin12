@@ -3,7 +3,7 @@
 </br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
-- 🎓 Bloomtech (FKA Lambda), Dixie State University, Science and Business Administration
+- 🎓 Bloomtech (FKA Lambda), Dixie State University - Science and Business Administration
 
 - 🌱 I’m currently learning **React Native, TypeScript, Python, & Firebase**
 
