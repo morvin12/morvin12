@@ -5,7 +5,7 @@
 
 - 🎓 Bloomtech (FKA Lambda), Dixie State University - Science and Business Administration
 
-- 🌱 I’m currently learning **React Native, TypeScript, Python, & Web 3.0**
+- 🌱 I’m currently learning **React Native, Python, & Web 3.0**
 
 - 📫 How to reach me **mike@orvin.dev**
 
