@@ -5,7 +5,7 @@
 
 - 🎓 Bloomtech - Full Stack Web Development | Utah Tech University - Science and Business Administration
 
-- 🌱 I’m currently learning *React Native & Swift*
+- 🌱 I’m currently learning **React Native & Swift**
 
 - 📫 How to reach me - mike@orvin.dev
 
