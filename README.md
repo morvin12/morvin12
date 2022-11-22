@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/morvin12/morvin12/blob/main/header.png)
-<h3 align="center">A Passionate Full Stack Web Developer in Southern Utah</h3>
+<!-- <h3 align="center">A Passionate Full Stack Web Developer in Southern Utah</h3> -->
 </br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
