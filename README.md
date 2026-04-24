@@ -3,15 +3,7 @@
 </br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
-- 🎓 Bloomtech - Full Stack Web Development | Utah Tech University - Science and Business Administration
-
-- 🌱 I’m currently learning **React Native & Swift**
-
 - 📫 How to reach me - mike@orvin.dev
-
-<!-- - 📄 Know about my experiences <a href="https://docs.google.com/document/d/151aQviA8kFk1NT9W6c2OXrKBSF9zDseVYkkT4fo-Er4/edit?usp=sharing" alt="link to resume">Resume</a> -->
-
-- ⚡ Fun fact **My wife and I both have holes in one on the same golf course!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
